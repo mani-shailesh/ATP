@@ -11,4 +11,5 @@ Steps to use the project:-
 	<br>&nbsp;&nbsp;Password: Shailesh
 	<br>&nbsp;&nbsp;Category: Student
 	<br>(iii)&nbsp;Email: utkarsh.chauhan@iitrpr.ac.in
-	&nbsp;&nbsp;Password: Utkarshsingh
+	<br>&nbsp;&nbsp;Password: Utkarshsingh
+<br>&nbsp;&nbsp;Category: Student
