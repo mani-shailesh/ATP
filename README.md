@@ -7,7 +7,7 @@ Steps to use the project:-
 	<br><br>(i)&nbsp;Email: anil.kumar@iitrpr.ac.in
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Password: Anilmodi
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Category: Teacher
-	<br><br>(ii) &nbsp;Email: shailesh.pandey@iitrpr.ac.in
+	<br><br>(ii)&nbsp;Email: shailesh.pandey@iitrpr.ac.in
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Password: Shailesh
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Category: Student
 	<br><br>(iii)&nbsp;Email: utkarsh.chauhan@iitrpr.ac.in
