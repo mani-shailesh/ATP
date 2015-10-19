@@ -16,7 +16,7 @@ Steps to use the project:-
 
 <h5>Some Pictures of Project -></h5>
 
- Login Page
+ 1)<em>Login Page</em>:
 <br>
 <br>
 <br>
@@ -25,7 +25,7 @@ Steps to use the project:-
 <br>
 <br>
 <br>
-Teacher DashBoard
+2)<em>Teacher DashBoard</em>:
 <br>
 <br>
 ![Teacher](http://i.imgur.com/bO3YGXp.png)
